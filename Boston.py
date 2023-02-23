@@ -1,7 +1,5 @@
 # This Python file uses the following encoding: utf-8
 
-from decimal import Decimal
-
 with open("economic-indicators.csv", "r") as boston:
     total_voos = 0
     maior = 0
